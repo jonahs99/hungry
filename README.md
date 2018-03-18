@@ -1,5 +1,7 @@
 # Week 1: Revisiting 2d hungry creatures
 
+![HTML5 visualization](screen.png)
+
 # Lessons
 
 * I should limit the new things (python server+websockets, reinforcement learning)
